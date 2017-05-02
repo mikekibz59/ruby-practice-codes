@@ -1,2 +1,3 @@
 # ruby-practice-codes
-tests t
+tests 
+This tests were done in order to unable me to better understand the ruby language.
